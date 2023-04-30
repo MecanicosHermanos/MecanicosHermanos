@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,7 +21,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="https://mecanicoshermanos.github.io/MecanicosHermanos/README.md">Inicio</a>
+                        <a class="nav-link active" aria-current="page" href="https://mecanicoshermanos.github.io/MecanicosHermanos/">Inicio</a>
                     </li>
                 </ul>
                 <form class="d-flex">
@@ -43,15 +41,15 @@
 
                         <div class="carousel-item active">
                             <a href="">
-                                    src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec1" class="d-block w-100" alt="..."></a>
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec1.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
                             <a href="">
-                                    src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec2" class="d-block w-100" alt="..."></a>
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec2.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
                             <a href="">
-                                    src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec3" class="d-block w-100" alt="..."></a>
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec3.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                     </div>
 
@@ -73,7 +71,7 @@
             </div>
             <div class="col-sm-12 col-md-2 col-lg-3">
                 <hr>
-                </p> Cualquier duda no dude en contactarnos en nuestro correo: tallermecanico251@gmail.com</p>
+                <p>Cualquier duda no dude en contactarnos en nuestro correo: tallermecanico251@gmail.com</p>
                 <hr><br>
                 <p>Tambien puede contactenos al wattsap que esta activo 24/7: +56 9 8662 2381</p>
                 <hr><br>
