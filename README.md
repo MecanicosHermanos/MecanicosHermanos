@@ -8,13 +8,13 @@
     <title>MenicosHermanos</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/estilo.css">
+    <link rel="stylesheet" href="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/style.css">
 </head>
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">MecanicosHermanos</a>
+            <a class="navbar-brand" href="(https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/README.md">MecanicosHermanos</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -23,7 +23,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+                        <a class="nav-link active" aria-current="page" href="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/README.md">Inicio</a>
                     </li>
                 </ul>
                 <form class="d-flex">
@@ -42,15 +42,15 @@
                     <div class="carousel-inner">
 
                         <div class="carousel-item active">
-                            <a href="file:///C:/Users/CETECOM/Desktop/TareaProgramacionWeb/html/orfebrer%C3%ADa2.html"><img
+                            <a href="">
                                     src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec1.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
-                            <a href="file:///C:/Users/CETECOM/Desktop/TareaProgramacionWeb/html/tejido.html"><img
+                            <a href="">
                                     src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec2.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
-                            <a href="file:///C:/Users/CETECOM/Desktop/TareaProgramacionWeb/html/tejido2.html"><img
+                            <a href="">
                                     src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec3.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                     </div>
