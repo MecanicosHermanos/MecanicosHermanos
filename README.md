@@ -6,7 +6,7 @@
     <title>MenicosHermanos</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/estilo.css">
+    <link rel="stylesheet" href="https://github.com/MecanicosHermanos/MecanicosHermanos/estilo.css">
 </head>
 
 <body>
@@ -40,16 +40,16 @@
                     <div class="carousel-inner">
 
                         <div class="carousel-item active">
-                            <a href="file:///C:/Users/CETECOM/Desktop/TareaProgramacionWeb/html/orfebrer%C3%ADa2.html"><img
-                                    src="../img/mec1.jpg" class="d-block w-100" alt="..."></a>
+                            <a href=""><img
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/mec1.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
-                            <a href="file:///C:/Users/CETECOM/Desktop/TareaProgramacionWeb/html/tejido.html"><img
-                                    src="../img/mec2.jpg" class="d-block w-100" alt="..."></a>
+                            <a href=""><img
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/mec2.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
-                            <a href="file:///C:/Users/CETECOM/Desktop/TareaProgramacionWeb/html/tejido2.html"><img
-                                    src="../img/mec3.jpg" class="d-block w-100" alt="..."></a>
+                            <a href=""><img
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/mec3.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                     </div>
 
