@@ -43,15 +43,15 @@
 
                         <div class="carousel-item active">
                             <a href="file:///C:/Users/CETECOM/Desktop/TareaProgramacionWeb/html/orfebrer%C3%ADa2.html"><img
-                                    src="../img/mec1.jpg" class="d-block w-100" alt="..."></a>
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec1.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
                             <a href="file:///C:/Users/CETECOM/Desktop/TareaProgramacionWeb/html/tejido.html"><img
-                                    src="../img/mec2.jpg" class="d-block w-100" alt="..."></a>
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec2.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
                             <a href="file:///C:/Users/CETECOM/Desktop/TareaProgramacionWeb/html/tejido2.html"><img
-                                    src="../img/mec3.jpg" class="d-block w-100" alt="..."></a>
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec3.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                     </div>
 
@@ -80,9 +80,6 @@
             </div>
         </div>
     </div>
-
-
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
         crossorigin="anonymous"></script>
