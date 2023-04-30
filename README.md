@@ -49,7 +49,7 @@
                         </div>
                         <div class="carousel-item">
                             <a href=""><img
-                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/mec3.jpg" class="d-block w-100" alt="..."></a>
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec3.jpg?raw=true" class="d-block w-100" alt="..."></a>
                         </div>
                     </div>
 
