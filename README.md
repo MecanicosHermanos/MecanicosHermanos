@@ -43,15 +43,15 @@
 
                         <div class="carousel-item active">
                             <a href="">
-                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec1.jpg?raw=true" class="d-block w-100" alt="..."></a>
+                                    src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec1" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
                             <a href="">
-                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec3.jpg?raw=true" class="d-block w-100" alt="..."></a>
+                                    src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec2" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
                             <a href="">
-                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec2.jpg?raw=true" class="d-block w-100" alt="..."></a>
+                                    src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec3" class="d-block w-100" alt="..."></a>
                         </div>
                     </div>
 
