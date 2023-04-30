@@ -14,7 +14,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="(https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/README.md">MecanicosHermanos</a>
+            <a class="navbar-brand" href="https://mecanicoshermanos.github.io/MecanicosHermanos/">MecanicosHermanos</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -23,7 +23,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/README.md">Inicio</a>
+                        <a class="nav-link active" aria-current="page" href="https://mecanicoshermanos.github.io/MecanicosHermanos/">Inicio</a>
                     </li>
                 </ul>
                 <form class="d-flex">
@@ -43,15 +43,15 @@
 
                         <div class="carousel-item active">
                             <a href="">
-                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec1.jpg" class="d-block w-100" alt="..."></a>
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec1.jpg?raw=true" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
                             <a href="">
-                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec2.jpg" class="d-block w-100" alt="..."></a>
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec3.jpg?raw=true" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
                             <a href="">
-                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec3.jpg" class="d-block w-100" alt="..."></a>
+                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec2.jpg?raw=true" class="d-block w-100" alt="..."></a>
                         </div>
                     </div>
 
