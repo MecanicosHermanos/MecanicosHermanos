@@ -1,4 +1,5 @@
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,7 +26,8 @@
                     </li>
                 </ul>
                 <form class="d-flex">
-                    <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search" style="background-color: rgb(118, 219, 228);">
+                    <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search"
+                        style="background-color: rgb(118, 219, 228);">
                     <button class="btn btn-outline-warning" type="submit">Buscar</button>
                 </form>
             </div>
@@ -40,16 +42,13 @@
                     <div class="carousel-inner">
 
                         <div class="carousel-item active">
-                            <a href=""><img
-                                    src="mec1.jpg" class="d-block w-100" alt="..."></a>
+                            <a href=""><img src="mec1.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
-                            <a href=""><img
-                                    src="mec2.jpg" class="d-block w-100" alt="..."></a>
+                            <a href=""><img src="mec2.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
-                            <a href=""><img
-                                    src="/mec3.jpg" class="d-block w-100" alt="..."></a>
+                            <a href=""><img src="mec3.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                     </div>
 
@@ -76,6 +75,82 @@
                 <p>Tambien puede contactenos al wattsap que esta activo 24/7: +56 9 8662 2381</p>
                 <hr><br>
             </div>
+            <table>
+                <tr>
+                    <th>
+                        <center>
+                            <h2>Galeria de Arte,Esculturas,Orfebrería y Tejids</h2>
+                        </center>
+                    </th>
+
+                </tr>
+                <tr>
+                    <div class="container">
+                        <div class="row">
+
+                            <div class="card" style="width: 18rem;">
+                                <img src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec1.jpg"
+                                    class="card-img-top" alt="...">
+                                <div class="card-body">
+                                    <h5 class="card-title">trabajo 0</h5>
+                                    <p class="card-text">Some quick example text to build on the
+                                        card
+                                        title and make up the bulk of the card's content.</p>
+                                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                                </div>
+                            </div>
+                </tr>
+                <hr>
+                <tr>
+                    <div class="card" style="width: 18rem;">
+                        <img src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec2.jpg" class="card-img-top"
+                            alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Trabajo1</h5>
+                            <p class="card-text">Some quick example text to build on the card
+                                title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </tr>
+                <hr>
+                <tr>
+                    <div class="card" style="width: 18rem;">
+                        <img src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec3.jpg" class="card-img-top"
+                            alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Trabajo2</h5>
+                            <p class="card-text">Some quick example text to build on the card
+                                title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </tr>
+                <hr>
+                <tr>
+                    <div class="card" style="width: 18rem;">
+                        <img src="..." class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Trabajo3</h5>
+                            <p class="card-text">Some quick example text to build on the card
+                                title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </tr>
+                <tr>
+                    <div class="card" style="width: 18rem;">
+                        <img src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec3.jpg" class="card-img-top"
+                            alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Trabajo4</h5>
+                            <p class="card-text">Some quick example text to build on the card
+                                title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </tr>
+            </table>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
@@ -85,4 +160,3 @@
         integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
     <script src="../js/java.js"></script>
 </body>
-
