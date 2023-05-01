@@ -6,13 +6,13 @@
     <title>MenicosHermanos</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://github.com/MecanicosHermanos/MecanicosHermanos/estilo.css">
+    <link rel="stylesheet" href="estilo.css">
 </head>
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">MecanicosHermanos</a>
+            <a class="navbar-brand" href="index.html">MecanicosHermanos</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -21,7 +21,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+                        <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
                     </li>
                 </ul>
                 <form class="d-flex">
@@ -41,15 +41,15 @@
 
                         <div class="carousel-item active">
                             <a href=""><img
-                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/mec1.jpg" class="d-block w-100" alt="..."></a>
+                                    src="mec1.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
                             <a href=""><img
-                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/mec2.jpg" class="d-block w-100" alt="..."></a>
+                                    src="mec2.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                         <div class="carousel-item">
                             <a href=""><img
-                                    src="https://github.com/MecanicosHermanos/MecanicosHermanos/blob/taller.hb/mec3.jpg?raw=true" class="d-block w-100" alt="..."></a>
+                                    src="/mec3.jpg" class="d-block w-100" alt="..."></a>
                         </div>
                     </div>
 
