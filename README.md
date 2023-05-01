@@ -89,10 +89,10 @@
                         <div class="row">
 
                             <div class="card" style="width: 18rem;">
-                                <img src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec1.jpg"
+                                <img src="mec1"
                                     class="card-img-top" alt="...">
                                 <div class="card-body">
-                                    <h5 class="card-title">trabajo 0</h5>
+                                    <h5 class="card-title">cambio de pintura</h5>
                                     <p class="card-text">Some quick example text to build on the
                                         card
                                         title and make up the bulk of the card's content.</p>
@@ -103,10 +103,10 @@
                 <hr>
                 <tr>
                     <div class="card" style="width: 18rem;">
-                        <img src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec2.jpg" class="card-img-top"
+                        <img src="mec2" class="card-img-top"
                             alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Trabajo1</h5>
+                            <h5 class="card-title">Remplazo de luces led y motor</h5>
                             <p class="card-text">Some quick example text to build on the card
                                 title and make up the bulk of the card's content.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
@@ -116,10 +116,10 @@
                 <hr>
                 <tr>
                     <div class="card" style="width: 18rem;">
-                        <img src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec3.jpg" class="card-img-top"
+                        <img src="mec5" class="card-img-top"
                             alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Trabajo2</h5>
+                            <h5 class="card-title">Mantencion de aceites y componentes electricos</h5>
                             <p class="card-text">Some quick example text to build on the card
                                 title and make up the bulk of the card's content.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
@@ -129,9 +129,9 @@
                 <hr>
                 <tr>
                     <div class="card" style="width: 18rem;">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="mec4" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Trabajo3</h5>
+                            <h5 class="card-title">Reparacion de fusibles</h5>
                             <p class="card-text">Some quick example text to build on the card
                                 title and make up the bulk of the card's content.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
@@ -140,10 +140,10 @@
                 </tr>
                 <tr>
                     <div class="card" style="width: 18rem;">
-                        <img src="https://mecanicoshermanos.github.io/MecanicosHermanos/mec3.jpg" class="card-img-top"
+                        <img src="mec3" class="card-img-top"
                             alt="...">
                         <div class="card-body">
-                            <h5 class="card-title">Trabajo4</h5>
+                            <h5 class="card-title">Reparacion de radiador</h5>
                             <p class="card-text">Some quick example text to build on the card
                                 title and make up the bulk of the card's content.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
