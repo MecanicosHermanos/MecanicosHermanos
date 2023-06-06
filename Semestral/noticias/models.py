@@ -31,6 +31,8 @@ class Noticia(models.Model):
 	titulo = models.CharField(max_length=35)
 	Detalle = models.CharField(max_length=120)
 	Ubicacion = models.CharField(max_length=120)
+	destacada = models.IntegerField(default=0)
+	ub_img = models.CharField(max_length=120)
 	id_categoria = models.ForeignKey(Categoria,on_delete=models.CASCADE,db_column='IdCategory')
 	id_parti = models.ForeignKey(Parti,on_delete=models.CASCADE,db_column='Id_Parti')
 	def __str__(self):
