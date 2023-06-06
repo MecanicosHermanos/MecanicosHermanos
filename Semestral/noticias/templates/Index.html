@@ -108,16 +108,20 @@
     <br><br><br>
     <!-- cards con las noticias -->
     <div class="container">
-        {% for x in noticia %}
-            <div class="card" style="width: 18rem;">
-                <img src="{% static 'img/' %}{{x.ub_img}}" class="card-img-top" alt="...">
-                <div class="card-body">
-                <h5 class="card-title">{{x.titulo}}</h5>
-                <p class="card-text">{{x.Detalle}}</p>
-                <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+        <div class="row">
+            {% for x in noticia %}
+                <div class="col-md-3">
+                    <div class="card" style="width: 18rem;">
+                        <img src="{% static 'img/' %}{{x.ub_img}}" class="card-img-top" alt="...">
+                        <div class="card-body">
+                        <h5 class="card-title">{{x.titulo}}</h5>
+                        <p class="card-text">{{x.Detalle}}</p>
+                        <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+                        </div>
+                    </div>
                 </div>
-            </div>
-        {% endfor %}
+            {% endfor %}
+        </div>
     </div>
 
 
