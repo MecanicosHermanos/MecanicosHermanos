@@ -17,7 +17,7 @@
 	en el cmd prompt(terminal)
 - Instala Django y el cliente de MySql con
 
-		> pip install -r reqs.txt
+		> pip install -r ../reqs.txt
 		> pip install mysqlclient
 	Una vez hecho esto el proyacto funcionara normalmente
 
